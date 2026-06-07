@@ -1,0 +1,14 @@
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\bin\Debug\net10.0\RPGBattleArena.exe
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\bin\Debug\net10.0\RPGBattleArena.deps.json
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\bin\Debug\net10.0\RPGBattleArena.runtimeconfig.json
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\bin\Debug\net10.0\RPGBattleArena.dll
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\bin\Debug\net10.0\RPGBattleArena.pdb
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.AssemblyInfoInputs.cache
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.AssemblyInfo.cs
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.csproj.CoreCompileInputs.cache
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.dll
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\refint\RPGBattleArena.dll
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.pdb
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\RPGBattleArena.genruntimeconfig.cache
+C:\Users\bielm\source\repos\RPGBattleArena\RPGBattleArena\obj\Debug\net10.0\ref\RPGBattleArena.dll
